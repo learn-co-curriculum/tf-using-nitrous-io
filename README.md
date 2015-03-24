@@ -7,18 +7,18 @@ If you don't currently have access to a mac, the majority of the work here can b
 
 + Create a Ruby/Rails box and give it a name.
 
-!(https://s3.amazonaws.com/after-school-assets/nitrous-box.png)
+![box](https://s3.amazonaws.com/after-school-assets/nitrous-box.png)
 
 + Wait for the box to 'provision' and open up.
 
 + You'll now be in the IDE. It will look something like this:
 
-!(https://s3.amazonaws.com/after-school-assets/nitrous-ide.png)
+![ide](https://s3.amazonaws.com/after-school-assets/nitrous-ide.png)
 
 ### Connecting to Github
 + Finally, to set up a connection with your github account (so you can clone/push/pull), head click on the 'boxes' link on the top right of the screen. Open up your box, and click 'reveal public key'. Copy the public key.
 
-!(https://s3.amazonaws.com/after-school-assets/copy-public-key.png)
+![public-key](https://s3.amazonaws.com/after-school-assets/copy-public-key.png)
 
 + Head to your github settings. Click 'SSH keys', and then 'Add SSH key'. Give your key a title (like 'nitrous'), and paste in the copied ssh key string. Save.
 
