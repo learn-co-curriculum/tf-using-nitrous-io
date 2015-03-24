@@ -20,7 +20,7 @@ If you don't currently have access to a mac, the majority of the work here can b
 
 ![public-key](https://s3.amazonaws.com/after-school-assets/copy-public-key.png)
 
-+ Head to your github settings. Click 'SSH keys', and then 'Add SSH key'. Give your key a title (like 'nitrous'), and paste in the copied ssh key string. Save.
++ Head to GitHub, and click on your settings (the gear icon). Click 'SSH keys', and then 'Add SSH key'. Give your key a title (like 'nitrous'), and paste in the copied ssh key string. Save.
 
 ### Install your first Gem
 
@@ -36,8 +36,8 @@ Next, download the gem:
 
 The ironboard gem will allow us to run the tests for challenges and labs. It's based off of RSpec, a popular testing framework in Ruby, but it does a bit more like help track your progress on labs.
 
-Go ahead and install RSpec too: gem install rspec
+Go ahead and install RSpec too: `gem install rspec`
 
 Normally when we run our tests, we would type rspec, but to run the tests for challenges and labs, you'll type ironboard into your command line instead, within the root directory of the challenge/lab.
 
-+ You should be done! In the console, you'll now be able to fork and clone repositories from github.
++ Done! In the console, you'll now be able to fork and clone repositories from GitHub.
