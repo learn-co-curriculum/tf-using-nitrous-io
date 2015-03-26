@@ -24,7 +24,7 @@ If you don't currently have access to a mac, the majority of the work here can b
 
 ### Install your first Gem
 
-+ Ok, back to the IDE to install the ironboard gem.
++ Ok, back to the IDE to install the learn gem.
 
 This gem isn't open-sourced, so we won't be downloading it from RubyGems.org, which is where most gems are hosted. Before we download it, we will need to specify where it's coming from, which is a private server at Flatiron. Type this into your command line:
 
@@ -32,12 +32,12 @@ This gem isn't open-sourced, so we won't be downloading it from RubyGems.org, wh
 
 Next, download the gem:
 
-`gem install ironboard`
+`gem install learn-co`
 
-The ironboard gem will allow us to run the tests for challenges and labs. It's based off of RSpec, a popular testing framework in Ruby, but it does a bit more like help track your progress on labs.
+The learn gem will allow us to run the tests for challenges and labs. It's based off of RSpec, a popular testing framework in Ruby, but it does a bit more like help track your progress on labs.
 
 Go ahead and install RSpec too: `gem install rspec`
 
-Normally when we run our tests, we would type rspec, but to run the tests for challenges and labs, you'll type ironboard into your command line instead, within the root directory of the challenge/lab.
+Normally when we run our tests, we would type rspec, but to run the tests for challenges and labs, you'll type learn into your command line instead, within the root directory of the challenge/lab.
 
 + Done! In the console, you'll now be able to fork and clone repositories from GitHub.
