@@ -3,7 +3,7 @@
 If you don't currently have access to a mac, the majority of the work here can be done using an IDE (Interactive Development Environment) called Nitrous.io. Below you'll find the steps you need to take in order to set up your development 'box'.
 
 ### Initial Set-Up
-+ Navigate to and sign up for [nitrous.io](https://www.nitrous.io/). For simplicity's sake, I'd recommend signing up with github.
++ Navigate to and sign up for [lite.nitrous.io](https://lite.nitrous.io/). For simplicity's sake, I'd recommend signing up with github.
 
 + Create a Ruby/Rails box and give it a name.
 
