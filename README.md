@@ -26,11 +26,7 @@ If you don't currently have access to a mac, the majority of the work here can b
 
 + Ok, back to the IDE to install the learn gem.
 
-This gem isn't open-sourced, so we won't be downloading it from RubyGems.org, which is where most gems are hosted. Before we download it, we will need to specify where it's coming from, which is a private server at Flatiron. Type this into your command line:
-
-`gem sources -a http://flatiron:33west26@gems.flatironschool.com/`
-
-Next, download the gem:
+Download the gem:
 
 `gem install learn-co`
 
