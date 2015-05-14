@@ -1,39 +1,24 @@
-## PC/Chrome OS: Using Nitrous.io
+## Environment Setup Using Nitrous.io
 
-If you don't currently have access to a mac, the majority of the work here can be done using an IDE (Interactive Development Environment) called Nitrous.io. Below you'll find the steps you need to take in order to set up your development 'box'.
+We'll be using Nitrous.io as our main development environment with with our students this summer. Below you'll find the steps you need to take in order to set up your development 'box'. Flatiron will be covering the cost of the 'pro version' for both students and teachers.
 
 ### Initial Set-Up
-+ Navigate to and sign up for [lite.nitrous.io](https://lite.nitrous.io/). For simplicity's sake, I'd recommend signing up with github.
-
-+ Create a Ruby/Rails box and give it a name.
-
-![box](https://s3.amazonaws.com/after-school-assets/nitrous-box.png)
-
-+ Wait for the box to 'provision' and open up.
-
++ Navigate to and sign up for [nitrous.io](https://nitrous.io/)(the pro version). Sign up, and confirm with two factor authentication.
+![sign-up](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/sign_up.png)
++ Once you've signed up and reach the 'choose a box' page, email daniel@flatironschool.com with the email address you used to sign up.
+![choose-box](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/choose_box.png)
++ I'll create a 'container' for you to work on, so when you log back in you'll see a link to that container on the left side of the screen.
+![left-pic](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/left_side.png)
++ Click on the link to your box and then on the button that says 'IDE' (which stands for Interactive Development Environment)
+![dash-pic](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/dash.png)
 + You'll now be in the IDE. It will look something like this:
-
-![ide](https://s3.amazonaws.com/after-school-assets/nitrous-ide.png)
+![ide](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/ide.png)
 
 ### Connecting to Github
-+ Finally, to set up a connection with your github account (so you can clone/push/pull), head click on the 'boxes' link on the top right of the screen. Open up your box, and click 'reveal public key'. Copy the public key.
++ Finally, to set up a connection with your github account (so you can clone/push/pull), click on the 'account settings' link on the top right of the screen. Click on the 'add to github' button
 
-![public-key](https://s3.amazonaws.com/after-school-assets/copy-public-key.png)
+![account-github](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/account_settings.png)
 
-+ Head to GitHub, and click on your settings (the gear icon). Click 'SSH keys', and then 'Add SSH key'. Give your key a title (like 'nitrous'), and paste in the copied ssh key string. Save.
++ Head back to your container dashboard and click on ssh keys, then connect your container to github
 
-### Install your first Gem
-
-+ Ok, back to the IDE to install the learn gem.
-
-Download the gem:
-
-`gem install learn-co`
-
-The learn gem will allow us to run the tests for challenges and labs. It's based off of RSpec, a popular testing framework in Ruby, but it does a bit more like help track your progress on labs.
-
-Go ahead and install RSpec too: `gem install rspec`
-
-Normally when we run our tests, we would type rspec, but to run the tests for challenges and labs, you'll type learn into your command line instead, within the root directory of the challenge/lab.
-
-+ Done! In the console, you'll now be able to fork and clone repositories from GitHub.
+![add-github](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/ssh_keys.png)
