@@ -31,3 +31,10 @@ We'll be using Nitrous.io as our main development environment with with our stud
 + Head back to your container dashboard and click on ssh keys, then connect your container to github
 
 ![add-github](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/ssh_keys.png)
+
++ Last, open up the IDE and run the following lines (with your information):
+  + `git config --global user.email "you@example.com"`
+  + `git config --global user.name "Your Username"`
+
+
+You're all set!
