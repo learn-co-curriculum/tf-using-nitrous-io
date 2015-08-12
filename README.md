@@ -3,7 +3,7 @@
 If you don't own a Mac, you can use Nitrous.io as your main development environment. Below you'll find the steps you need to take in order to set up your development 'box'.
 
 ### Initial Set-Up
-+ Navigate to and sign up for [nitrous.io](https://nitrous.io/)(the pro version). Sign up, and confirm with two factor authentication.
++ Navigate to and sign up for [nitrous.io](https://nitrous.io/). Sign up, and confirm with two factor authentication.
 
 ![sign-up](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/sign_up.png)
 
