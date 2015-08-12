@@ -7,14 +7,12 @@ If you don't own a Mac, you can use Nitrous.io as your main development environm
 
 ![sign-up](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/sign_up.png)
 
-+ Once you've signed up and reach the 'choose a box' page ____
++ Once you've signed up and reach the 'choose a box' page, select the "Ruby on Rails" container, and the 'Free Tier' on the following page. Give your container a name (for example 'learn-code').
 
 ![choose-box](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/choose_box.png)
 
-+ I'll create a 'container' for you to work on, so when you log back in you'll see a link to that container on the left side of the screen.
-
 ![left-pic](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/left_side.png)
-
++ Wait for your workspace and container to be created.
 + Click on the link to your box and then on the button that says 'IDE' (which stands for Interactive Development Environment)
 
 ![dash-pic](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/dash.png)
@@ -32,7 +30,7 @@ If you don't own a Mac, you can use Nitrous.io as your main development environm
 
 ![add-github](https://curriculum-content.s3.amazonaws.com/pre-college/teacher-fellowship/ssh_keys.png)
 
-+ Last, open up the IDE and run the following lines (with your information):
++ Last, open up the IDE and run the following lines (with your information) in your console:
   + `git config --global user.email "you@example.com"`
   + `git config --global user.name "Your Username"`
 
