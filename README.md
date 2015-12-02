@@ -36,3 +36,5 @@ If you don't own a Mac, you can use Nitrous.io as your main development environm
 
 
 You're all set!
+
+<a href='https://learn.co/lessons/tf-using-nitrous-io' data-visibility='hidden'>View this lesson on Learn.co</a>
