@@ -37,4 +37,4 @@ If you don't own a Mac, you can use Nitrous.io as your main development environm
 
 You're all set!
 
-<a href='https://learn.co/lessons/tf-using-nitrous-io' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/tf-using-nitrous-io' title='Environment Setup Using Nitrous.io'>Environment Setup Using Nitrous.io</a> on Learn.co and start learning to code for free.</p>
